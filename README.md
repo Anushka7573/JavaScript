@@ -27,7 +27,7 @@ JavaScript is used in many areas such as:
 🤖 AI & Machine Learning
 📊 Data Visualization
 
-<img src="JS.jpg" alt="Image">
+
 
 ⚡ Why is JavaScript Popular?
 ✅ Easy to Learn
@@ -106,3 +106,6 @@ Excellent for modern web applications
 Browser compatibility issues may occur
 Frontend security limitations
 Large applications can become complex
+
+
+<img src="JS.jpg.png" alt="Image">
