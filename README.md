@@ -26,6 +26,9 @@ JavaScript is used in many areas such as:
 🖥️ Backend Development
 🤖 AI & Machine Learning
 📊 Data Visualization
+
+<img src="JS.jpg" alt="Image">
+
 ⚡ Why is JavaScript Popular?
 ✅ Easy to Learn
 
@@ -62,13 +65,18 @@ let name = "Anushka";
 console.log("Hello " + name);
 Output:
 Hello Anushka
+
+
 📚 JavaScript vs Other Languages
+
 Feature	JavaScript	Other Languages
-Runs in Browser	✅ Yes	❌ Mostly No
-Beginner Friendly	✅ Yes	⚠️ Medium
-Frontend Development	✅ Excellent	❌ Limited
-Backend Support	✅ With Node.js	✅ Yes
-Web Interaction	✅ Very Fast	⚠️ Depends
+Runs in Browser	  ✅ Yes	  ❌ Mostly No
+Beginner Friendly	✅ Yes	  ⚠️ Medium
+Frontend Development	✅ Excellent	  ❌ Limited
+Backend Support  	✅ With Node.js	  ✅ Yes
+Web Interaction  	✅ Very Fast	    ⚠️ Depends
+
+
 🚀 Popular JavaScript Frameworks & Libraries
 ⚛️ React.js
 🟢 Node.js
@@ -76,6 +84,8 @@ Web Interaction	✅ Very Fast	⚠️ Depends
 🅰️ Angular
 💚 Vue.js
 🚂 Express.js
+
+
 📦 Applications of JavaScript
 Social Media Platforms
 Real-time Chat Applications
@@ -83,12 +93,15 @@ Online Games
 E-commerce Websites
 Video Streaming Platforms
 Dashboards and Analytics Tools
+
 🎯 Advantages of JavaScript
 Easy to use
 Large ecosystem
 High demand in jobs
 Works on multiple platforms
 Excellent for modern web applications
+
+
 ❌ Disadvantages of JavaScript
 Browser compatibility issues may occur
 Frontend security limitations
